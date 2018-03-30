@@ -9,6 +9,7 @@
 <body>
 
     <p>Bienvenue</p>
+    <?php for($i = 0 ; $i < 1000; $i++){  echo 'Damien est bonne';} ?>
     
 </body>
 </html>
