@@ -9,7 +9,12 @@
 <body>
 
     <p>Bienvenue</p>
+<<<<<<< HEAD
     <?php for($i = 0 ; $i < 1000; $i++){  echo 'Damien est bonne';} ?>
+=======
+
+    <p>OUI C'EST LA FETE</p>
+>>>>>>> c97f62cacae9b2234e856973a70d20bbdfdf81de
     
 </body>
 </html>
